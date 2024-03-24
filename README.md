@@ -1,4 +1,4 @@
-# Computer Vision Final Project - CelebAMask-HQ Face Parsing
+# Computer Vision Course Final Project - CelebAMask-HQ Face Parsing
 
 ### Dependencies
 - Pytorch 1.7.1
