@@ -37,12 +37,12 @@
 python -u main.py --batch_size 16 --imsize 512 --train --arch FaceParseNet50
 ```
 
-### Pretrained Model Checkpoint
-Initial weights file for EHANet:  *./models/FaceParseNet50_Default_size512/best.pth*
+### Pretrained Model
+Initial weights file for EHANet: *https://drive.google.com/drive/folders/1VIcmb4qF7sbyLSEouNRaxKLpPJRhUIGW?usp=drive_link*
 
-Weights file for EHANet with CutPaste Augmentation:  *./models/FaceParseNet50_aug_size512/best.pth*
+Weights file for EHANet with CutPaste Augmentation:  *https://drive.google.com/drive/folders/1yU-7fQJsws2IzN64K02U2yDiyySHS1Gy?usp=drive_link*
 
-Weights file for EHANet with CutPaste Augmentation and FaceSynthetics Data: *./models/FaceParseNet50_aug_sys_size512/best.pth*
+Weights file for EHANet with CutPaste Augmentation and FaceSynthetics Data: *https://drive.google.com/drive/folders/1pW1kVny5pq3EbbgfcINAW66NddETfyl6?usp=drive_link*
 
 ### Testing
 Test on testing data
